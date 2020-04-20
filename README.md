@@ -1,2 +1,2 @@
 
-7 segment LED display using combinationl and sequential circuit on logisim
+7 segment LED display using combinationl and sequential circuits on logisim
