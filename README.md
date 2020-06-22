@@ -1,2 +1,2 @@
 # 7 Segment LED Display Project
-7 segme LED display using combinational and sequential circuits on logisim
+7 segment LED display using combinational and sequential circuits on logisim
